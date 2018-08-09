@@ -1,0 +1,4 @@
+__pycache__
+cards/**
+predictions.txt
+config.py
