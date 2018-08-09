@@ -11,7 +11,7 @@ bingobot requires the Python 3.5+, discord.py rewrite and a token for your own D
 
 ## Installation
 
-`git clone https://github.com/wonderbrian/bingobot.git`  
+`git clone https://github.com/wonderbrian/bingobot.py.git`  
 `cd bingobot`
 
 You can find out more about installing the [discord.py rewrite here](https://github.com/Rapptz/discord.py)
